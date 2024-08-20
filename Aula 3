@@ -1,0 +1,15 @@
+1.a - A LGPD exige que os data centers no Brasil adotem medidas de segurança para proteger dados pessoais, como criptografia e firewalls. Eles devem incorporar a privacidade desde a 
+concepção dos sistemas (Privacy by Design) e mapear e monitorar o tratamento de dados. Além disso, é importante criar uma cultura organizacional que valorize aproteção de dados e treinar
+os colaboradores. O descumprimento da LGPD pode resultar em multas severas, então a conformidade é essencial.
+
+1b - Formatos de arquivos de dados proprietários e abertos, conceito:
+Formatos de arquivos de dados proprietários - são aqueles desenvolvidos e controlados por uma empresa ou organização específica. Eles geralmente requerem software específico para serem acessados e manipulados. Exemplos incluem:
+.docx (Microsoft Word)
+.DWG: (AutoCAD)
+Formatos de arquivos de dados abertos - são aqueles que são desenvolvidos de maneira colaborativa e são acessíveis a qualquer pessoa. Eles podem ser usados e modificados livremente, sem a necessidade de software proprietário. Exemplos incluem:
+.TXT: Texto simples.
+.XML: Extensible Markup Language, usado para estruturar dados.
+ 
+Implicações para dados públicos:
+Formatos proprietários -  Pode limitar a acessibilidade dos dados públicos, exigindo software específico e pode haver custos associados ao acesso e manipulação dos dados.
+Formatos abertos - romove a inclusão, permitindo que mais pessoas acessem e utilizem os dados; aumenta a transparência e a confiança pública, pois os dados podem ser verificados por qualquer pessoa e facilita a inovação, permitindo que desenvolvedores criem novas ferramentas e análises.
