@@ -1,0 +1,28 @@
+Código de estrutura de repetição:
+
+# Lista de números
+numeros = [1, 2, 3, 4, 5]
+
+# Estrutura de repetição usando for
+for numero in numeros:
+    print(numero)
+
+
+
+
+
+
+Código - de estrutura de tomada de decisão:
+
+# Número para verificar
+numero = 10
+
+# Estrutura de tomada de decisão usando if-else
+if numero > 0:
+    print("O número é positivo")
+elif numero < 0:
+    print("O número é negativo")
+else:
+    print("O número é zero")
+
+
