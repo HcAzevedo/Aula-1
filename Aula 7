@@ -36,10 +36,7 @@ def calcular_operacao():
 calcular_operacao()
 
     
-Digite o primeiro número: 
 
-Session Killed due to Timeout.
-Press Enter to exit terminal
 
 
 3:
@@ -54,7 +51,7 @@ def lista_de_compras():
 # Exemplo de uso
 lista_de_compras()
 
-maçã,banana,tomate
+
 
 
 4:
