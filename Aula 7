@@ -74,16 +74,19 @@ converter_temperatura()
 
 5:
 
-def pedir_nomes():
+def coletar_nomes():
     nomes = []
     while True:
-        nome = input("Digite um nome (ou 'sair' para finalizar): ")
+        nome = input("Digite um nome (ou 'sair' para terminar): ")
         if nome.lower() == 'sair':
             break
         nomes.append(nome)
-
+    
+    print("\nNomes digitados:")
     for nome in nomes:
         print(nome)
 
-# Exemplo de uso
-pedir_nomes()
+# Chama a função para iniciar o programa
+coletar_nomes()
+
+Digite um nome (ou 'sair' para terminar): 
